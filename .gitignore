@@ -1,0 +1,9 @@
+/server/node_modules
+/server/public
+
+/client/mode_modules
+
+
+npm-debug.log*
+
+.env
